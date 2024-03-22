@@ -1,0 +1,16 @@
+{
+  "author": "LavonneParisian",
+  "name": "deseruntconsequatur",
+  "description": "Measure the duration of JS code segments and keep stats",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiamondMarquardt/deseruntconsequatur.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
